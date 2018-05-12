@@ -1,0 +1,30 @@
+_repo: An-Englishman-in-Paris--Notes-and-Recollections_32343
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vandam, Albert D. (Albert Dresden)
+    alias: Vandam, Albert Dresden
+    birthdate: 1843
+    deathdate: 1903
+    gutenberg_agent_id: '35797'
+    url: http://www.gutenberg.org/2009/agents/35797
+description: Vol. 1. Reign of Louis-Philippe -- v. 2. The Empire.
+gutenberg_issued: '2010-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32343'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- Social life and customs -- 19th century'
+- !lcsh 'France -- History -- 19th century'
+- !lcsh 'Paris (France) -- Social life and customs -- 19th century'
+- !lcsh 'Paris (France) -- History -- 19th century'
+title: 'An Englishman in Paris: Notes and Recollections'
+url: http://www.gutenberg.org/ebooks/32343
